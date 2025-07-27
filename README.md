@@ -1,4 +1,4 @@
-# Embedded Systems & IoT – Learning Track by Mirza Asdaf
+# Embedded Systems & IoT Learning Progress
 
 This repository documents my hands on learning journey in Embedded Systems and IoT development. The goal is to build the technical foundation needed to contribute to real-world smart infrastructure solutions at [3AZ Digital Solutions](https://www.linkedin.com/company/3az-digital-solutions), a startup I'm working on that focuses on the digitalization of infrastructure through IoT and smart building technologies.
 
