@@ -1,10 +1,10 @@
 # Embedded Systems & IoT – Learning Track by Mirza Asdaf
 
-This repository documents my hands-on learning journey in Embedded Systems and IoT development. The goal is to build the technical foundation needed to contribute to real-world smart infrastructure solutions at [3AZ Digital Solutions](https://www.linkedin.com/company/3az-digital-solutions), a startup focused on smart buildings and smart farming technologies.
+This repository documents my hands on learning journey in Embedded Systems and IoT development. The goal is to build the technical foundation needed to contribute to real-world smart infrastructure solutions at [3AZ Digital Solutions](https://www.linkedin.com/company/3az-digital-solutions), a startup I'm working on that focuses on the digitalization of infrastructure through IoT and smart building technologies.
 
 ---
 
-## 🔧 Focus Areas
+##  Focus Areas
 
 - Embedded Systems Fundamentals
 - Microcontroller Programming (ESP32, Arduino)
@@ -15,7 +15,7 @@ This repository documents my hands-on learning journey in Embedded Systems and I
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To become proficient in embedded system development over the next few months by:
 - Building and programming real hardware projects using ESP32
@@ -25,25 +25,25 @@ To become proficient in embedded system development over the next few months by:
 
 ---
 
-## 🧪 Learning & Project Structure
+##  Learning & Project Structure
 
 This repo will evolve over time to include:
-- ✅ Notes and resources from foundational study
-- 💡 Mini-projects for core concepts (e.g. LED blinking, sensor reading)
-- 🔌 Real hardware integrations (DHT11, motion sensors, relays, etc.)
-- 🌐 Cloud data push and real-time monitoring
-- 🧠 Final applied projects that reflect smart building or smart farm scenarios
+-  Notes and resources from foundational study
+-  Mini-projects for core concepts (e.g. LED blinking, sensor reading)
+-  Real hardware integrations (DHT11, motion sensors, relays, etc.)
+-  Cloud data push and real-time monitoring
+-  Final applied projects that reflect smart building or smart farm scenarios
 
 ---
 
-## 📦 Project Modules (Coming Soon)
+##  Project Modules (Coming Soon)
 
 | Module | Description | Status |
 |--------|-------------|--------|
-| `01-blink-led` | First microcontroller project using GPIO | 🔜 Planned |
-| `02-dht11-reader` | Reads temperature/humidity from sensor | 🔜 Planned |
-| `03-esp32-firebase` | Send data to Firebase from ESP32 | 🔜 Planned |
-| `04-smart-irrigation-prototype` | Water control using soil moisture & thresholds | 🔜 Planned |
+| `01-blink-led` | First microcontroller project using GPIO |  Planned |
+| `02-dht11-reader` | Reads temperature/humidity from sensor |  Planned |
+| `03-esp32-firebase` | Send data to Firebase from ESP32 |  Planned |
+| `04-smart-irrigation-prototype` | Water control using soil moisture & thresholds |  Planned |
 
 ---
 
@@ -57,13 +57,6 @@ This repo will evolve over time to include:
 
 ---
 
-## 📌 Why This Repo Exists
-
-This repo serves two purposes:
-1. **Personal Development** – to accelerate my technical growth in embedded systems.
-2. **Portfolio** – to show initiative, self-learning, and applied IoT experience relevant to startups and embedded roles.
-
----
 
 ## 📫 Connect With Me
 
